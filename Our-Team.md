@@ -12,68 +12,80 @@
 </div>
 <h1> INTERVIEW</h1>
 
+<div class="interviewpic" align=center>
+  <img alt="รูปสัมภาษณ์ในดิส" src="" width="300px">
+</div>
+
 - 1 : chkhrit Phulaenna
   - ชื่อเล่น :  
   - อายุ :  
   - วันเกิด : 
   - อาหารที่ชอบ :
   - งานอดิเรก :
-  - กรุ๊ปเลือด : 
+  - กรุ๊ปเลือด :
+  - contact (Instragram) : <a href="เพิ่มลิงก์ไอจีเพื่อน">ใส่ user name ig (เช่น dxes_ddear)</a>
 <div class="pic" align="center" >
-<img src="" width="200px">
+<img src="เพิ่มรูปเพื่อน" width="200px">
 </div>
 
-- 2 : tonpee
+- 2 : roid
   - ชื่อเล่น :  
-  - อายุ : 
+  - อายุ :  
   - วันเกิด : 
-  - อาหารที่ชอบ : 
+  - อาหารที่ชอบ :
   - งานอดิเรก :
-  - กรุ๊ปเลือด : 
+  - กรุ๊ปเลือด :
+  - contact (Instragram) : <a href="เพิ่มลิงก์ไอจีเพื่อน">ใส่ user name ig (เช่น dxes_ddear)</a>
 <div class="pic" align="center" >
-<img src="" width="200px">
+<img src="เพิ่มรูปเพื่อน" width="200px">
 </div>
 
-- 3 : roid
+- 3 : tonpee
   - ชื่อเล่น :  
-  - อายุ : 
+  - อายุ :  
   - วันเกิด : 
-  - อาหารที่ชอบ : 
+  - อาหารที่ชอบ :
   - งานอดิเรก :
-  - กรุ๊ปเลือด : 
+  - กรุ๊ปเลือด :
+  - contact (Instragram) : <a href="เพิ่มลิงก์ไอจีเพื่อน">ใส่ user name ig (เช่น dxes_ddear)</a>
 <div class="pic" align="center" >
-<img src="" width="200px">
+<img src="เพิ่มรูปเพื่อน" width="200px">
 </div>
 
-- 4 : kong
+- 4 : tae
   - ชื่อเล่น :  
-  - อายุ : 
+  - อายุ :  
   - วันเกิด : 
-  - อาหารที่ชอบ : 
+  - อาหารที่ชอบ :
   - งานอดิเรก :
-  - กรุ๊ปเลือด : 
+  - กรุ๊ปเลือด :
+  - contact (Instragram) : <a href="เพิ่มลิงก์ไอจีเพื่อน">ใส่ user name ig (เช่น dxes_ddear)</a>
 <div class="pic" align="center" >
-<img src="" width="200px">
+<img src="เพิ่มรูปเพื่อน" width="200px">
 </div>
 
-- 5 : tae
+- 5 : kong
   - ชื่อเล่น :  
-  - อายุ : 
+  - อายุ :  
   - วันเกิด : 
-  - อาหารที่ชอบ : 
+  - อาหารที่ชอบ :
   - งานอดิเรก :
-  - กรุ๊ปเลือด : 
+  - กรุ๊ปเลือด :
+  - contact (Instragram) : <a href="เพิ่มลิงก์ไอจีเพื่อน">ใส่ user name ig (เช่น dxes_ddear)</a>
 <div class="pic" align="center" >
-<img src="" width="200px">
-  </div>
-  
-- 6 : torbo
-  - ชื่อเล่น :  
-  - อายุ : 
-  - วันเกิด : 
-  - อาหารที่ชอบ : 
-  - งานอดิเรก :
-  - กรุ๊ปเลือด : 
-<div class="pic" align="center" >
-<img src="" width="200px">
+<img src="เพิ่มรูปเพื่อน" width="200px">
 </div>
+
+- 6 : terbo
+  - ชื่อเล่น :  
+  - อายุ :  
+  - วันเกิด : 
+  - อาหารที่ชอบ :
+  - งานอดิเรก :
+  - กรุ๊ปเลือด :
+  - contact (Instragram) : <a href="เพิ่มลิงก์ไอจีเพื่อน">ใส่ user name ig (เช่น dxes_ddear)</a>
+<div class="pic" align="center" >
+<img src="เพิ่มรูปเพื่อน" width="200px">
+</div>
+
+
