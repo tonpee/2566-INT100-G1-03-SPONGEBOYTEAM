@@ -6,8 +6,8 @@
 | 1 | Chakhrit Phulaenna | dxesdear | 66130500023 |
 | 2 | Chanachon Wongnornoi | Chanachon017 | |
 | 3 | Row 3 Col 2 | Row 3 Col 3 | |
-| 4 | Kittichet Duanjang  | taekittichet  | | 
-| 5 | Kongpop Kongsan  | Kpsax04  | |
+| 4 | Kittichet Duanjang  | taekittichet  | 66130500008 | 
+| 5 | Kongpop Kongsan  | Kpsax04  | 66130500004 |
 | 6 | Thattaphol Seelong  | Turbo9922  | |
 </div>
 <h1> INTERVIEW</h1>
