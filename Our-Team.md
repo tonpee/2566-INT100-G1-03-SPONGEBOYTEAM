@@ -4,7 +4,7 @@
 | NO. | NAME | GIT ID | ID |
 |---------------------------|------------------------------|--------------------------|--------------------|
 | 1 | Chakhrit Phulaenna | dxesdear | 66130500023 |
-| 2 | Chanachon Wongnornoi | Chanachon017 | |
+| 2 | Chanachon Wongnornoi | Chanachon017 | 66130500017 |
 | 3 | Row 3 Col 2 | Row 3 Col 3 | |
 | 4 | Kittichet Duanjang  | taekittichet  | 66130500008 | 
 | 5 | Kongpop Kongsan  | Kpsax04  | 66130500004 |
