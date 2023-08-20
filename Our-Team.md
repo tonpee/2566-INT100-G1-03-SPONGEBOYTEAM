@@ -40,16 +40,16 @@
 <img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/142304928/65a28141-a870-4f20-bfd3-7b7349d051db" width="200px">
 </div>
 
-- 3 : tonpee
-  - ชื่อเล่น :  
-  - อายุ :  
-  - วันเกิด : 
-  - อาหารที่ชอบ :
-  - งานอดิเรก :
-  - กรุ๊ปเลือด :
-  - contact (Instragram) : <a href="เพิ่มลิงก์ไอจีเพื่อน">ใส่ user name ig (เช่น dxes_ddear)</a>
+- 3 : Theerakan Choochat
+  - ชื่อเล่น : ต้นปี
+  - อายุ : 18
+  - วันเกิด : 1/1/2005
+  - อาหารที่ชอบ : ข้าวหน้าเนื้อ
+  - งานอดิเรก : อ่านหนังสือ,ดูหนัง,ฟังเพลง
+  - กรุ๊ปเลือด : B
+  - contact (Instragram) : <a href="https://www.instagram.com/tonp_trk/">tonp_trk</a>
 <div class="pic" align="center" >
-<img src="เพิ่มรูปเพื่อน" width="200px">
+<img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/6eaf9a8d-0234-4f39-beea-e53dc8fa9dd4" width="200px">
 </div>
 
 - 4 : Kittichet Duanjang
