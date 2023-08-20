@@ -16,16 +16,16 @@
   <img alt="รูปสัมภาษณ์ในดิส" src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/ce024003-2fcd-4950-9305-6929b81a6fa1" width="500px">
 </div>
 
-- 1 : chkhrit Phulaenna
-  - ชื่อเล่น :  
-  - อายุ :  
-  - วันเกิด : 
-  - อาหารที่ชอบ :
-  - งานอดิเรก :
-  - กรุ๊ปเลือด :
-  - contact (Instragram) : <a href="เพิ่มลิงก์ไอจีเพื่อน">ใส่ user name ig (เช่น dxes_ddear)</a>
+- 1 : Chakhrit Phulaenna
+  - ชื่อเล่น : เดียร์
+  - อายุ :  19 
+  - วันเกิด : 24-06-2004
+  - อาหารที่ชอบ : กะเพราทะเลไข่ดาว
+  - งานอดิเรก : ร้องเพลง , เล่นกีต้าร์ , อ่านหนังสือ
+  - กรุ๊ปเลือด : A
+  - contact (Instragram) : <a href="https://www.instagram.com/dxes_ddear/">dxes_ddear</a>
 <div class="pic" align="center" >
-<img src="เพิ่มรูปเพื่อน" width="200px">
+<img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/308fa4ce-5f28-4d29-8426-c0f669f5643f" width="200px">
 </div>
 
 - 2 : roid
