@@ -5,7 +5,7 @@
 |---------------------------|------------------------------|--------------------------|--------------------|
 | 1 | Chakhrit Phulaenna | dxesdear | 66130500023 |
 | 2 | Chanachon Wongnornoi | Chanachon017 | 66130500017 |
-| 3 | Row 3 Col 2 | Row 3 Col 3 | |
+| 3 |  Theerakan Choochat | tonpee | 66130500045 |
 | 4 | Kittichet Duanjang  | taekittichet  | 66130500008 | 
 | 5 | Kongpop Kongsan  | Kpsax04  | 66130500004 |
 | 6 | Thattaphol Seelong  | Turbo9922  | 66130500036|
@@ -13,7 +13,7 @@
 <h1> INTERVIEW</h1>
 
 <div class="interviewpic" align=center>
-  <img alt="รูปสัมภาษณ์ในดิส" src="" width="300px">
+  <img alt="รูปสัมภาษณ์ในดิส" src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/ce024003-2fcd-4950-9305-6929b81a6fa1" width="500px">
 </div>
 
 - 1 : chkhrit Phulaenna
