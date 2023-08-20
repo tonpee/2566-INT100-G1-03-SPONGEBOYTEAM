@@ -28,16 +28,16 @@
 <img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/308fa4ce-5f28-4d29-8426-c0f669f5643f" width="200px">
 </div>
 
-- 2 : roid
-  - ชื่อเล่น :  
-  - อายุ :  
-  - วันเกิด : 
-  - อาหารที่ชอบ :
-  - งานอดิเรก :
-  - กรุ๊ปเลือด :
-  - contact (Instragram) : <a href="เพิ่มลิงก์ไอจีเพื่อน">ใส่ user name ig (เช่น dxes_ddear)</a>
+- 2 : Chanachon Wongnornoi
+  - ชื่อเล่น : หรอย  
+  - อายุ :  18
+  - วันเกิด : 09/03/2005
+  - อาหารที่ชอบ : ต้มแซ่บเนื้อ
+  - งานอดิเรก : ฟังเพลง, เล่นเกม, เล่นกีตาร์
+  - กรุ๊ปเลือด : O
+  - contact (Instragram) : <a href="https://www.instagram.com/chn.wng_/">chn.wng_</a>
 <div class="pic" align="center" >
-<img src="เพิ่มรูปเพื่อน" width="200px">
+<img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/142304928/65a28141-a870-4f20-bfd3-7b7349d051db" width="200px">
 </div>
 
 - 3 : tonpee
