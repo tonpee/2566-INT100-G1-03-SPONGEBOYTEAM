@@ -24,6 +24,7 @@
   - งานอดิเรก : ร้องเพลง , เล่นกีต้าร์ , อ่านหนังสือ
   - กรุ๊ปเลือด : A
   - contact (Instragram) : <a href="https://www.instagram.com/dxes_ddear/">dxes_ddear</a>
+   <br> ****Interviewed by Kittichet Duanjang****
 <div class="pic" align="center" >
 <img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/308fa4ce-5f28-4d29-8426-c0f669f5643f" width="200px">
 </div>
@@ -36,6 +37,7 @@
   - งานอดิเรก : ฟังเพลง, เล่นเกม, เล่นกีตาร์
   - กรุ๊ปเลือด : O
   - contact (Instragram) : <a href="https://www.instagram.com/chn.wng_/">chn.wng_</a>
+  <br> ****Interviewed by Kongphob Kongsan****
 <div class="pic" align="center" >
 <img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/142304928/65a28141-a870-4f20-bfd3-7b7349d051db" width="200px">
 </div>
@@ -48,6 +50,7 @@
   - งานอดิเรก : อ่านหนังสือ,ดูหนัง,ฟังเพลง
   - กรุ๊ปเลือด : B
   - contact (Instragram) : <a href="https://www.instagram.com/tonp_trk/">tonp_trk</a>
+  <br> ****Interviewed by Chanachon Wongnornoi****
 <div class="pic" align="center" >
 <img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/6eaf9a8d-0234-4f39-beea-e53dc8fa9dd4" width="200px">
 </div>
@@ -60,6 +63,7 @@
   - งานอดิเรก : ดูซีรีส์ , เล่นเกม
   - กรุ๊ปเลือด : A
   - contact (Instragram) : <a href="https://www.instagram.com/kk03z/">kk03z</a>
+  <br> ****Interviewed by Thattaphol Seelong****
 <div class="pic" align="center" >
 <img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/141814542/481d36ba-4cf2-4ab4-911e-b2ce002693cd" width="200px">
 </div>
@@ -72,6 +76,7 @@
   - งานอดิเรก : เล่นกีต้าร์,เล่นเบส
   - กรุ๊ปเลือด : AB
   - contact (Instragram) : <a href="https://www.instagram.com/kp.sax/">kp.sax</a>
+    <br> ****Interviewed by Chakhrit Phulaenna****
 <div class="pic" align="center" >
 <img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/4b6d5604-6f75-477e-bec6-1e624b91db36" width="200px">
 </div>
@@ -84,6 +89,7 @@
   - งานอดิเรก : อ่านการ์ตูน, ดูหนัง, ฟังเพลง
   - กรุ๊ปเลือด : A
   - contact (Instragram) : <a href="https://www.instagram.com/turboo_0/">turboo_0</a>
+    <br> ****Interviewed by Theerakan Choochat****
 <div class="pic" align="center" >
 <img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/94214400/a329fb46-bf94-4db2-9b49-a0ba140d00bd" width="200px">
 </div>
