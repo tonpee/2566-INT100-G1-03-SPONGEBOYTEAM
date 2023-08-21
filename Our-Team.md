@@ -1,5 +1,5 @@
 <div class="topic" align="center">
-<h1>SPONGEBOY TEAM</h1>
+<h1>SPONGEBOY TEAM😝</h1>
   
 | NO. | NAME | GIT ID | ID |
 |---------------------------|------------------------------|--------------------------|--------------------|
@@ -16,7 +16,7 @@
   <img alt="รูปสัมภาษณ์ในดิส" src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/ce024003-2fcd-4950-9305-6929b81a6fa1" width="500px">
 </div>
 
-- 1 : Chakhrit Phulaenna
+- 1 : _Chakhrit Phulaenna_
   - ชื่อเล่น : เดียร์
   - อายุ :  19 
   - วันเกิด : 24-06-2004
@@ -28,7 +28,7 @@
 <img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/308fa4ce-5f28-4d29-8426-c0f669f5643f" width="200px">
 </div>
 
-- 2 : Chanachon Wongnornoi
+- 2 : _Chanachon Wongnornoi_
   - ชื่อเล่น : หรอย  
   - อายุ :  18
   - วันเกิด : 09/03/2005
@@ -40,7 +40,7 @@
 <img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/142304928/65a28141-a870-4f20-bfd3-7b7349d051db" width="200px">
 </div>
 
-- 3 : Theerakan Choochat
+- 3 : _Theerakan Choochat_
   - ชื่อเล่น : ต้นปี
   - อายุ : 18
   - วันเกิด : 1/1/2005
@@ -52,7 +52,7 @@
 <img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/6eaf9a8d-0234-4f39-beea-e53dc8fa9dd4" width="200px">
 </div>
 
-- 4 : Kittichet Duanjang
+- 4 :  _Kittichet Duanjang_
   - ชื่อเล่น :  เต้
   - อายุ :  19
   - วันเกิด : 14/02/2004
@@ -64,7 +64,7 @@
 <img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/141814542/481d36ba-4cf2-4ab4-911e-b2ce002693cd" width="200px">
 </div>
 
-- 5 : Kongphob Kongsan
+- 5 : _Kongphob Kongsan_
   - ชื่อเล่น : ก้อง  
   - อายุ :  19
   - วันเกิด : 01-07-2004
@@ -76,7 +76,7 @@
 <img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/4b6d5604-6f75-477e-bec6-1e624b91db36" width="200px">
 </div>
 
-- 6 : terbo
+- 6 : _terbo_
   - ชื่อเล่น :  
   - อายุ :  
   - วันเกิด : 
