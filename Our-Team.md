@@ -76,16 +76,16 @@
 <img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/4b6d5604-6f75-477e-bec6-1e624b91db36" width="200px">
 </div>
 
-- 6 : _terbo_
-  - ชื่อเล่น :  
-  - อายุ :  
-  - วันเกิด : 
-  - อาหารที่ชอบ :
-  - งานอดิเรก :
-  - กรุ๊ปเลือด :
-  - contact (Instragram) : <a href="เพิ่มลิงก์ไอจีเพื่อน">ใส่ user name ig (เช่น dxes_ddear)</a>
+- 6 : Thattaphol Seelong
+  - ชื่อเล่น : เทอร์โบ
+  - อายุ : 19
+  - วันเกิด : 20/09/2004
+  - อาหารที่ชอบ : ผํดคะน้าหมุกรอบ
+  - งานอดิเรก : อ่านการ์ตูน, ดูหนัง, ฟังเพลง
+  - กรุ๊ปเลือด : A
+  - contact (Instragram) : <a href="https://www.instagram.com/turboo_0/">turboo_0</a>
 <div class="pic" align="center" >
-<img src="เพิ่มรูปเพื่อน" width="200px">
+<img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/94214400/a329fb46-bf94-4db2-9b49-a0ba140d00bd" width="200px">
 </div>
 
 
