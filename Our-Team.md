@@ -10,11 +10,11 @@
 | 5 | Kongphob Kongsan  | Kpsax04  | 66130500004 |
 | 6 | Thattaphol Seelong  | Turbo9922  | 66130500036|
 </div>
-<h1> INTERVIEW</h1>
 
-<div class="interviewpic" align=center>
-  <img alt="รูปสัมภาษณ์ในดิส" src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/ce024003-2fcd-4950-9305-6929b81a6fa1" width="500px">
-</div>
+# INTERVIEW
+
+![2023-08-20](https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/ce024003-2fcd-4950-9305-6929b81a6fa1)
+
 
 - 1 : _Chakhrit Phulaenna_
   - ชื่อเล่น : เดียร์
@@ -25,9 +25,7 @@
   - กรุ๊ปเลือด : A
   - contact (Instragram) : <a href="https://www.instagram.com/dxes_ddear/">dxes_ddear</a>
    <br> ****Interviewed by Kittichet Duanjang****
-<div class="pic" align="center" >
-<img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/308fa4ce-5f28-4d29-8426-c0f669f5643f" width="200px">
-</div>
+![image](https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/308fa4ce-5f28-4d29-8426-c0f669f5643f)
 
 - 2 : _Chanachon Wongnornoi_
   - ชื่อเล่น : หรอย  
@@ -38,9 +36,8 @@
   - กรุ๊ปเลือด : O
   - contact (Instragram) : <a href="https://www.instagram.com/chn.wng_/">chn.wng_</a>
   <br> ****Interviewed by Kongphob Kongsan****
-<div class="pic" align="center" >
-<img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/142304928/65a28141-a870-4f20-bfd3-7b7349d051db" width="200px">
-</div>
+![367404701_816791493526178_7955050650429464941_n](https://github.com/tonpee/2566-INT100-G1-03-ee/assets/142304928/65a28141-a870-4f20-bfd3-7b7349d051db)
+
 
 - 3 : _Theerakan Choochat_
   - ชื่อเล่น : ต้นปี
@@ -51,9 +48,8 @@
   - กรุ๊ปเลือด : B
   - contact (Instragram) : <a href="https://www.instagram.com/tonp_trk/">tonp_trk</a>
   <br> ****Interviewed by Chanachon Wongnornoi****
-<div class="pic" align="center" >
-<img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/6eaf9a8d-0234-4f39-beea-e53dc8fa9dd4" width="200px">
-</div>
+
+![image](https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/6eaf9a8d-0234-4f39-beea-e53dc8fa9dd4)
 
 - 4 :  _Kittichet Duanjang_
   - ชื่อเล่น :  เต้
@@ -64,9 +60,7 @@
   - กรุ๊ปเลือด : A
   - contact (Instragram) : <a href="https://www.instagram.com/kk03z/">kk03z</a>
   <br> ****Interviewed by Thattaphol Seelong****
-<div class="pic" align="center" >
-<img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/141814542/481d36ba-4cf2-4ab4-911e-b2ce002693cd" width="200px">
-</div>
+![IMG_0150 2](https://github.com/tonpee/2566-INT100-G1-03-ee/assets/141814542/481d36ba-4cf2-4ab4-911e-b2ce002693cd)
 
 - 5 : _Kongphob Kongsan_
   - ชื่อเล่น : ก้อง  
@@ -77,9 +71,7 @@
   - กรุ๊ปเลือด : AB
   - contact (Instragram) : <a href="https://www.instagram.com/kp.sax/">kp.sax</a>
     <br> ****Interviewed by Chakhrit Phulaenna****
-<div class="pic" align="center" >
-<img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/4b6d5604-6f75-477e-bec6-1e624b91db36" width="200px">
-</div>
+![image](https://github.com/tonpee/2566-INT100-G1-03-ee/assets/139838190/4b6d5604-6f75-477e-bec6-1e624b91db36)
 
 - 6 : Thattaphol Seelong
   - ชื่อเล่น : เทอร์โบ
@@ -90,8 +82,8 @@
   - กรุ๊ปเลือด : A
   - contact (Instragram) : <a href="https://www.instagram.com/turboo_0/">turboo_0</a>
     <br> ****Interviewed by Theerakan Choochat****
-<div class="pic" align="center" >
-<img src="https://github.com/tonpee/2566-INT100-G1-03-ee/assets/94214400/a329fb46-bf94-4db2-9b49-a0ba140d00bd" width="200px">
-</div>
+    
+![Turbo](https://github.com/tonpee/2566-INT100-G1-03-ee/assets/94214400/a329fb46-bf94-4db2-9b49-a0ba140d00bd)
+
 
 
