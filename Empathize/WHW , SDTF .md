@@ -7,7 +7,7 @@
 ## What/How?Why
 ![image](https://github.com/tonpee/2566-INT100-G1-03-SPONGEBOYTEAM/assets/139838190/3df8991b-14d5-46f3-b5e6-3c5eaaf06ab7)
 ## Say/Do/Think/Feel
-![image](https://github.com/tonpee/2566-INT100-G1-03-SPONGEBOYTEAM/assets/139838190/ec1fa704-4485-4534-ad33-5a28c716faa9)
+![image](https://github.com/tonpee/2566-INT100-G1-03-SPONGEBOYTEAM/assets/141814542/474ae3f2-2c80-42c0-b291-c37aee4ca8fd)
 # ลุงเยาว์ (ขายไอศกรีม)
 ## What/How?Why
 ![image](https://github.com/tonpee/2566-INT100-G1-03-SPONGEBOYTEAM/assets/139838190/51ce03b6-457b-4db1-8db8-0d13fcd4ba52)
@@ -17,5 +17,5 @@
 ## What/How?Why
 ![image](https://github.com/tonpee/2566-INT100-G1-03-SPONGEBOYTEAM/assets/139838190/d58b6e0f-3a9d-4a92-a787-4fdd3b1b1bab)
 ## Say/Do/Think/Feel
-![image](https://github.com/tonpee/2566-INT100-G1-03-SPONGEBOYTEAM/assets/139838190/b65a07f4-079d-4ad5-baf5-7e5afb2a5821)
+![image](https://github.com/tonpee/2566-INT100-G1-03-SPONGEBOYTEAM/assets/141814542/cdf30855-e828-4c49-9343-97ca81b3cddd)
 
